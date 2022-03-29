@@ -1,3 +1,12 @@
+# 주영이 정인이 참고!
+
+전체 파일 클론으로 땡기고
+docs안에 qr.html 파일을 이용하여 수정 부탁 드립니다.
+
+
+
+
+
 # jsQR
 
 [![Build Status](https://travis-ci.org/cozmo/jsQR.svg?branch=master)](https://travis-ci.org/cozmo/jsQR)
